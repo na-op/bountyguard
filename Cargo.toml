@@ -1,0 +1,8 @@
+[package]
+name = "bountyguard"
+version = "0.1.0"
+edition = "2021"
+authors = ["na-op <357236237+na-op@users.noreply.github.com>"]
+description = "Verify real open-source bounty escrows and scan repositories for supply-chain honeypot traps"
+license = "MIT"
+repository = "https://github.com/na-op/bountyguard"
